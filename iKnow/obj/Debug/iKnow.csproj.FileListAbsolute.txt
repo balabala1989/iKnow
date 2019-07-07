@@ -1,0 +1,15 @@
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\Bin\Debug\ApplicationIcon.png
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\Bin\Debug\Background.png
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\Bin\Debug\iKnow.dll
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\Bin\Debug\iKnow.pdb
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\Bin\Debug\AppManifest.xaml
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\Bin\Debug\iKnow.xap
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\obj\Debug\ResolveAssemblyReference.cache
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\obj\Debug\App.g.i.cs
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\obj\Debug\Index.g.i.cs
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\obj\Debug\MainPage.g.i.cs
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\obj\Debug\iKnow.g.resources
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\obj\Debug\iKnow.dll
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\obj\Debug\iKnow.pdb
+c:\users\balaji\documents\visual studio 2010\Projects\iKnow\iKnow\obj\Debug\XapCacheFile.xml
+C:\Users\Balaji\Documents\Visual Studio 2010\Projects\iKnow\iKnow\obj\Debug\Knowme.g.i.cs
